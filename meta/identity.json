@@ -1,0 +1,11 @@
+{
+  "codename": "BLACKSITE",
+  "signal_origin": "Rafah external",
+  "operator_aliases": ["Eagle", "Specter", "Null", "Vox", "Gideon"],
+  "persona_logic": "Rotating drop authors with distinct voice/focus",
+  "drop_tiers": [0.025, 0.027],
+  "btc_wallet_strategy": "16 rotating wallets w/ Mempool trace links",
+  "core_regions": ["Gaza", "Ukraine"],
+  "distribution_modes": ["GitHub", "Discord", "Twitter", "Terminal"],
+  "engagement_model": "psychological pressure via AI + scarcity + signal timing"
+}

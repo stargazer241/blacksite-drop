@@ -1,0 +1,9 @@
+# Ignore all log, temp, and private files
+*.log
+*.tmp
+.DS_Store
+.env
+__pycache__/
+inbox/*
+queue/*
+tools/*
